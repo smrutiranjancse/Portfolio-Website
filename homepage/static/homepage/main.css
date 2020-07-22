@@ -1,0 +1,59 @@
+body{
+	background: url(i3.jpg);
+}
+.navbar-brand{
+	font-size: large;
+	font-family: 'Bebas Neue', cursive;
+}
+.nav-item{
+	font-size: medium;
+	font-family: 'Bebas Neue', cursive;
+}
+
+#name{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 22px
+}
+
+#text{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 25px
+}
+
+#heading{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 30px
+}
+
+#profile{
+	text-align: center;
+	padding-left: 0;
+  	padding-right: 0;
+}
+
+#propic{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 0;
+  	padding-right: 0;
+}
+
+#projpic{
+	height: 200px;
+	width: 100px;
+	margin-left: 0;
+	margin-right: 0;
+	
+}
+
+#projhead{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 25px
+}
+
+#projtext{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 20px
+	
+}
+
